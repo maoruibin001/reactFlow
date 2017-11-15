@@ -1,0 +1,28 @@
+{
+  "name": "reactflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maoruibin001/reactFlow.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "styled-components": "^2.2.3"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.0.17"
+  },
+  "bugs": {
+    "url": "https://github.com/maoruibin001/reactFlow/issues"
+  },
+  "homepage": "https://github.com/maoruibin001/reactFlow#readme"
+}
